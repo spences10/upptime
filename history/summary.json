@@ -1,22 +1,22 @@
 [
   {
     "name": "Scott Spence",
-    "url": "httsp://scottspence.com",
+    "url": "https://scottspence.com",
     "icon": "https://favicons.githubusercontent.com/scottspence.com",
     "slug": "scott-spence",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.54%",
+    "uptimeDay": "0.54%",
+    "uptimeWeek": "0.54%",
+    "uptimeMonth": "0.54%",
+    "uptimeYear": "0.54%",
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-07-14": 7
+      "2022-07-14": 8
     }
   }
 ]
