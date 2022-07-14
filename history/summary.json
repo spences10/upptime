@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/scottspence.com",
     "slug": "scott-spence",
     "status": "up",
-    "uptime": "0.54%",
-    "uptimeDay": "0.54%",
-    "uptimeWeek": "0.54%",
-    "uptimeMonth": "0.54%",
-    "uptimeYear": "0.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {
-      "2022-07-14": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
