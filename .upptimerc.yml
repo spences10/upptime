@@ -11,6 +11,8 @@ sites:
     url: https://cfromp.xyz
   - name: Svelte Bits
     url: https://sveltebits.com
+  - name: Short Links
+    url: https://ss10.dev/links
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
