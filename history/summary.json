@@ -76,19 +76,19 @@
     "url": "https://ss10.dev/links",
     "icon": "https://favicons.githubusercontent.com/ss10.dev",
     "slug": "short-links",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 466,
-    "timeWeek": 1252,
-    "timeMonth": 1252,
-    "timeYear": 1252,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1161,
+    "timeDay": 497,
+    "timeWeek": 1161,
+    "timeMonth": 1161,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 8
     }
   }
 ]
